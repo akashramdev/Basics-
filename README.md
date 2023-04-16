@@ -1,2 +1,1 @@
-# Basics-
-Basics for Data Science and Analytics
+# Basics for Data Science and Analytics
